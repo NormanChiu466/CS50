@@ -15,4 +15,6 @@ int main (void)
      {
      else if (c == 'N' || c == 'n')
      {
-          printf ("
+          printf ("Not Agreed.\n"};
+     }
+}
